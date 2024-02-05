@@ -77,3 +77,6 @@ In [part two of the tutorial](https://catlikecoding.com/unity/tutorials/object-m
 - [The Game Dev Guru - Manual Garbage Collection for Star Trek Bridge Crew](https://thegamedev.guru/unity-performance/garbage-collection-manually/)
 - [Unity Docs - Garbage Collection Best Practices](https://docs.unity3d.com/Manual/performance-garbage-collection-best-practices.html#reusablepools)
 - [Unity Docs - Garbage Collection Best Practices: Reusable Pools (Object Pooling)](https://docs.unity3d.com/Manual/performance-garbage-collection-best-practices.html#reusablepools) ⭐
+- [Unity Docs - Memory Overview](https://docs.unity3d.com/Manual/performance-memory-overview.html)
+- [Unity Docs - Managed Memory (including Managed Heap](https://docs.unity3d.com/Manual/performance-managed-memory.html)
+- [Unity Docs - Garbage Collector Overview](https://docs.unity3d.com/Manual/performance-garbage-collector.html)
