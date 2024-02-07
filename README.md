@@ -74,9 +74,13 @@ In [part two of the tutorial](https://catlikecoding.com/unity/tutorials/object-m
 2. Also open [the Catlike Coding tutorial](https://catlikecoding.com/unity/tutorials/object-management/reusing-objects/). I have completed the tutorial up to '3 Object Pools', to get you up to the stage of monitoring for garbage. Give the contents a quick skim read up to this header (some of the content is more useful than other content). In short, the project has introduced sliders that allow for automatic instantiation and destruction of the shapes from the list. Continue the tutorial from this point on. You will see how to look for garbage collection and learn an example of reducing the amount of garbage using an optimisation technique called Object Pooling (the author sometimes calls it 'recycling').
 
 ## Extra Resources
+### Garbage Collection
 - [The Game Dev Guru - Manual Garbage Collection for Star Trek Bridge Crew](https://thegamedev.guru/unity-performance/garbage-collection-manually/)
 - [Unity Docs - Garbage Collection Best Practices](https://docs.unity3d.com/Manual/performance-garbage-collection-best-practices.html#reusablepools)
-- [Unity Docs - Garbage Collection Best Practices: Reusable Pools (Object Pooling)](https://docs.unity3d.com/Manual/performance-garbage-collection-best-practices.html#reusablepools) ⭐
 - [Unity Docs - Memory Overview](https://docs.unity3d.com/Manual/performance-memory-overview.html)
 - [Unity Docs - Managed Memory (including Managed Heap](https://docs.unity3d.com/Manual/performance-managed-memory.html)
 - [Unity Docs - Garbage Collector Overview](https://docs.unity3d.com/Manual/performance-garbage-collector.html)
+
+### Object Pooling
+- [Unity Docs - Garbage Collection Best Practices: Reusable Pools (Object Pooling)](https://docs.unity3d.com/Manual/performance-garbage-collection-best-practices.html#reusablepools) ⭐
+- [Object Pooling Implemented in Javascript YouTube Video](https://www.youtube.com/watch?v=NYzvdfkDOU4)
